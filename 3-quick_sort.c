@@ -19,7 +19,7 @@ void Items_swap(int *array, size_t l, size_t r)
 }
 
 /**
- * implement the Lomuto - Sorts a sub array
+ * implement_Lomuto - Sorts a sub array
  * @array: The array containing the sub-array.
  * @low: The starting position of the sub-array.
  * @high: The ending position of the sub-array.
